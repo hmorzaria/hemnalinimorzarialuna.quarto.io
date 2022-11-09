@@ -1,0 +1,63 @@
+---
+title: "Hem Nalini Morzaria-Luna"
+image: Hem_headshot_2021.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/hem-nalini-morzaria-luna/
+    - text: Twitter
+      href: https://twitter.com/hmorzaria
+    - text: GitHub
+      href: https://github.com/hmorzaria
+    - text: Email
+      href: mailto:hemnalini@cedo.org
+---
+
+# **Hem Nalini Morzaria-Luna, Ph.D.**
+
+#### Pronouns: she/her
+
+My main interests are translating modeling approaches for the management and conservation of coastal and marine resources and assessing how anthropogenic impacts influence planning and conservation decisions; my current focus is on the impacts of climate change and cumulative human impacts.
+
+-   Atlantis ecosystem modeler. Long Live the Kings, lltk.org
+
+-   Lead researcher. CEDO Intercultural, cedo.org
+
+-   Visiting Scientist at the Northwest Fisheries Science Center, NMFS, NOAA
+
+### Research areas
+
+-   Ecosystem modeling
+
+-   Climate Change
+
+-   Coastal ecology
+
+### Professional Preparation
+
+University of Wisconsin-Madison, Botany (major) & Limnology and Marine Science (minor), PhD 2005.
+
+Universidad Autónoma de Baja California Sur, La Paz, México, Marine Biology, BS 1997
+
+### Appointments
+
+2017 \-- to date. Atlantis Ecosystem Modeler. Long Live the Kings.
+
+2011 \-- to date. Lead researcher. CEDO Intercultural.
+
+2010-2011. Research fisheries scientist I. Marine Resources Assessment Group Americas Inc.
+
+2009-2010. Research fisheries scientist I. Frank Orth & Associates.
+
+2004-2009. Wetland researcher. CEDO Intercultural.
+
+### Recognitions
+
+-   2020 Leader for Sea Change. https://www.compassscicomm.org/leaders-for-sea-change-program/
+
+-   2000-2003. Trainee "Human Dimensions of Social and Aquatic System Interactions" NSF Integrative Graduate Research Education and Training program (IGERT). University of Wisconsin-Madison.
+
+-   1999-2005. Graduate fellowship. Consejo Nacional de Ciencia y Tecnología (CONACyT)
