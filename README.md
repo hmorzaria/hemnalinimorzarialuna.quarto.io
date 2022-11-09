@@ -1,3 +1,1 @@
-# hemnalinimorzarialuna.quarto.io
-
-Personal website
+# Personal website
