@@ -35,7 +35,7 @@
 		"rdebugger.r-debugger",
 		"ms-vsliveshare.vsliveshare",
 		"quarto.quarto"
-	],
+	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
