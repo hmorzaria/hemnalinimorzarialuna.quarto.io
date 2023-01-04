@@ -36,11 +36,11 @@ RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
 
 RUN apt-get autoremove -y && apt-get clean -y && rm -rf /var/lib/apt/lists/* /tmp/library-scripts \
     && python3 -m pip --no-cache-dir install radian \
-    && install2.r --error --skipinstalled --ncpus -1 \
-        devtools \
-        languageserver \
-        httpgd \
-        usethis \
+  #  && install2.r --error --skipinstalled --ncpus -1 \
+  #      devtools \
+  #      languageserver \
+  #      httpgd \
+  #      usethis \
     && rm -rf /tmp/downloaded_packages
 
 # VSCode R Debugger dependency. Install the latest release version from GitHub without using GitHub API.
