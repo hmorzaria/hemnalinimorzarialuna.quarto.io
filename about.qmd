@@ -8,9 +8,7 @@ View at [Google Scholar profile](https://scholar.google.com/citations?user=CdVwj
 
 ### In review
 
-Schamp, A., **H. Morzaria-Luna**, C.M. Anderson, M. Knox. Tourist Preferences for Whale Watching and Rule Changes in the Salish Sea. Ecological Economics
-
-Lovindeer, R., S. Mynott, J. Porobic Garate, E.A. Fulton, S.E. Hook, H. Pethybridge, S.E. Allen, D. Latornell, **H. Morzaria-Luna**, J. Melbourne-Thomas. Modelling ecosystem-level impacts of oil spills: a process to assign confidence to parameter estimates of contaminant effects. Environmental modeling and assessment.
+Schamp, A., **H. Morzaria-Luna**, C.M. Anderson, M. Knox. Tourist Preferences for Whale Watching and Rule Changes in the Salish Sea. Ecological Economics. [Preprint at SSRN] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4409663)
 
 **Morzaria-Luna, H.**, M. Urquidi, G. Cruz-Piñón, J.M. Dorantes Hernández, P.A. Valdivia Jiménez, Á. Sánchez Cruz, I. Martínez. Historical use of coastal wetlands by small-scale fisheries in the Northern Gulf of California. Human Ecology. [Preprint at bioRxiv](https://www.biorxiv.org/content/10.1101/2022.10.31.513536v1)
 
@@ -18,6 +16,8 @@ Salas-Mejia, N. J.G. Padilla-Serrato, **H. Morzaria-Luna**, T.M. Ruiz-Ruiz, E.F.
 
 
 ### Published
+
+Lovindeer, R., S. Mynott, J. Porobic Garate, E.A. Fulton, S.E. Hook, H. Pethybridge, S.E. Allen, D. Latornell, **H. Morzaria-Luna**, J. Melbourne-Thomas. 2023. Ecosystem-level Impacts of Oil Spills: A Review of Available Data with Confidence Metrics for Application to Ecosystem Models. Environmental modeling and assessment. https://doi.org/10.1007/s10666-023-09905-1
 
 Walker, S.L., **H. Morzaria-Luna**, I.C. Kaplan, D. Petatán-Ramírez. 2022. Future temperature and salinity in Puget Sound, Washington State, under CMIP6 climate change scenarios. Journal of Water and Climate Change 13(12): 4255–4272. https://doi.org/10.2166/wcc.2022.282
 
