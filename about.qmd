@@ -17,6 +17,8 @@ Salas-Mejia, N. J.G. Padilla-Serrato, **H. Morzaria-Luna**, T.M. Ruiz-Ruiz, E.F.
 
 ### Published
 
+Perryman, H.A., I.C. Kaplan, JL. Blanchard, G. Faye, S.K. Gaichas, V.L. McGregor, H. Morzaria-Luna, J. Porobic, H. Townsend, E.A. Fulton. In Press. Atlantis Ecosystem Model Summit 2022: report from a workshop. Ecological Modeling
+
 Lovindeer, R., S. Mynott, J. Porobic Garate, E.A. Fulton, S.E. Hook, H. Pethybridge, S.E. Allen, D. Latornell, **H. Morzaria-Luna**, J. Melbourne-Thomas. 2023. Ecosystem-level Impacts of Oil Spills: A Review of Available Data with Confidence Metrics for Application to Ecosystem Models. Environmental modeling and assessment. https://doi.org/10.1007/s10666-023-09905-1
 
 Walker, S.L., **H. Morzaria-Luna**, I.C. Kaplan, D. Petatán-Ramírez. 2022. Future temperature and salinity in Puget Sound, Washington State, under CMIP6 climate change scenarios. Journal of Water and Climate Change 13(12): 4255–4272. https://doi.org/10.2166/wcc.2022.282
