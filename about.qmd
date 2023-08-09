@@ -8,22 +8,24 @@ View at [Google Scholar profile](https://scholar.google.com/citations?user=CdVwj
 
 ### In review
 
+Rovellini, A., Punt, André E., Bryan, Meaghan D., Kaplan, I., Dorn, M., Aydin, K., Fulton, E.A., Alglave1, B., Baker, M.R., Carroll, G., Ferriss, B., Haltuch, M.A., Hayes, A., Hermann, A., Hernvann, P.Y., Holsman, K. Liu, O.R., McHuron, E., **Morzaria-Luna, H.**, Moss, J., Surma, S. & Weise, M.T. Linking climate stressors and ecological processes in ecosystem models, with a case study from the Gulf of Alaska. ICES Journal of Marine Science
+
 Schamp, A., **H. Morzaria-Luna**, C.M. Anderson, M. Knox. Tourist Preferences for Whale Watching and Rule Changes in the Salish Sea. Ecological Economics. [Preprint at SSRN] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4409663)
 
-**Morzaria-Luna, H.**, M. Urquidi, G. Cruz-Piñón, J.M. Dorantes Hernández, P.A. Valdivia Jiménez, Á. Sánchez Cruz, I. Martínez. Historical use of coastal wetlands by small-scale fisheries in the Northern Gulf of California. Human Ecology. [Preprint at bioRxiv](https://www.biorxiv.org/content/10.1101/2022.10.31.513536v1)
-
-Salas-Mejia, N. J.G. Padilla-Serrato, **H. Morzaria-Luna**, T.M. Ruiz-Ruiz, E.F. Balart-Paez, J.A. Arreola Lizárraga. Spatial-Temporal Patterns and Changes in the Structure of the Fish Community in a Semi-Arid Subtropical Coastal Lagoon Subject to Ecological Conservation. Environmental Biology of Fishes
+Salas-Mejia, N. J.G. Padilla-Serrato, **H. Morzaria-Luna**, T.M. Ruiz-Ruiz, E.F. Balart-Paez, J.A. Arreola Lizárraga. Spatial-temporal patterns and changes in the structure of the fish community in a semi-arid subtropical coastal lagoon subject to ecological conservation. Estuarine, Coastal and Shelf Science.
 
 
 ### Published
 
-Perryman, H.A., I.C. Kaplan, JL. Blanchard, G. Faye, S.K. Gaichas, V.L. McGregor, H. Morzaria-Luna, J. Porobic, H. Townsend, E.A. Fulton. In Press. Atlantis Ecosystem Model Summit 2022: report from a workshop. Ecological Modeling
+**Morzaria-Luna, H.**, M. Urquidi, G. Cruz-Piñón, J.M. Dorantes Hernández, P.A. Valdivia Jiménez, Á. Sánchez Cruz & I. Martínez. 2023. [Historical use of coastal wetlands by small-scale fisheries in the Northern Gulf of California.](https://rdcu.be/diR8B) Human Ecology. https://doi.org/10.1007/s10745-023-00440-x
 
-Lovindeer, R., S. Mynott, J. Porobic Garate, E.A. Fulton, S.E. Hook, H. Pethybridge, S.E. Allen, D. Latornell, **H. Morzaria-Luna**, J. Melbourne-Thomas. 2023. Ecosystem-level Impacts of Oil Spills: A Review of Available Data with Confidence Metrics for Application to Ecosystem Models. Environmental modeling and assessment. https://doi.org/10.1007/s10666-023-09905-1
+Perryman, H.A., I.C. Kaplan, JL. Blanchard, G. Faye, S.K. Gaichas, V.L. McGregor, H. Morzaria-Luna, J. Porobic, H. Townsend & E.A. Fulton. In Press. Atlantis Ecosystem Model Summit 2022: report from a workshop. Ecological Modeling
 
-Walker, S.L., **H. Morzaria-Luna**, I.C. Kaplan, D. Petatán-Ramírez. 2022. Future temperature and salinity in Puget Sound, Washington State, under CMIP6 climate change scenarios. Journal of Water and Climate Change 13(12): 4255–4272. https://doi.org/10.2166/wcc.2022.282
+Lovindeer, R., S. Mynott, J. Porobic Garate, E.A. Fulton, S.E. Hook, H. Pethybridge, S.E. Allen, D. Latornell, **H. Morzaria-Luna** & J. Melbourne-Thomas. 2023. Ecosystem-level Impacts of Oil Spills: A Review of Available Data with Confidence Metrics for Application to Ecosystem Models. Environmental modeling and assessment. https://doi.org/10.1007/s10666-023-09905-1
 
-**Morzaria-Luna H** and Zedler JB (2022) Salt marsh restoration surprise: A subordinate species accumulates and shares nitrogen while outcompeting salt marsh dominants. Frontiers in Ecology and Evolution 10:851055. doi: 10.3389/fevo.2022.851055
+Walker, S.L., **H. Morzaria-Luna**, I.C. Kaplan & D. Petatán-Ramírez. 2022. Future temperature and salinity in Puget Sound, Washington State, under CMIP6 climate change scenarios. Journal of Water and Climate Change 13(12): 4255–4272. https://doi.org/10.2166/wcc.2022.282
+
+**Morzaria-Luna H** & Zedler JB (2022) Salt marsh restoration surprise: A subordinate species accumulates and shares nitrogen while outcompeting salt marsh dominants. Frontiers in Ecology and Evolution 10:851055. doi: 10.3389/fevo.2022.851055
 
 Calderon-Aguilera, L.E., H. Reyes-Bonilla, **H. Morzaria-Luna**, J.C. Perusquía-Ardón, M. Olán-González, & M.F. Méndez-Martínez. 2022. [Resistance and resilience of marine ecosystems are poorly correlated with local oceanographic conditions and human stressors in the Eastern Pacific](https://authors.elsevier.com/a/1g5jgI7ECuHkJ). Progress in Oceanography. 209:102922. https://doi.org/10.1016/j.pocean.2022.102922
 
@@ -31,9 +33,9 @@ Calderon-Aguilera, L.E., H. Reyes-Bonilla, **H. Morzaria-Luna**, J.C. Perusquía
 
 Salvadeo, C., **H. Morzaria-Luna**, H. Reyes-Bonilla, A. Ivanova-Bonchera, D. Petatán Ramírez, E. Juárez-León. 2021. Fisher's perceptions inform adaptation measures to reduce vulnerability to climate change in a Mexican Natural Protected Area. Marine Policy. 134: 104793. https://doi.org/10.1016/j.marpol.2021.104793
 
-**Morzaria-Luna, H.**, P. Turk-Boyer, J.M. Dorantes-Hernández, E. Polanco-Mizquez, C. Downton-Hoffmann, G. Cruz-Piñón, T. Carrillo-Lammens, R. Loaiza-Villanueva, P. Valdivia-Jiménez, Á. Sánchez-Cruz, V. Peña-Mendoza, A. Montserrat López-Ortiz, V. Koch, L. Vázquez-Vera, J. Alfredo Arreola-Lizárraga, I. G. Amador-Castro, A.N. Suárez Castillo, A. Munguia-Vega. 2020. MethodsX. 7: 101108. https://doi.org/10.1016/j.mex.2020.101108.
+**Morzaria-Luna, H.**, P. Turk-Boyer, J.M. Dorantes-Hernández, E. Polanco-Mizquez, C. Downton-Hoffmann, G. Cruz-Piñón, T. Carrillo-Lammens, R. Loaiza-Villanueva, P. Valdivia-Jiménez, Á. Sánchez-Cruz, V. Peña-Mendoza, A. Montserrat López-Ortiz, V. Koch, L. Vázquez-Vera, J. Alfredo Arreola-Lizárraga, I. G. Amador-Castro, A.N. Suárez Castillo & A. Munguia-Vega. 2020. MethodsX. 7: 101108. https://doi.org/10.1016/j.mex.2020.101108.
 
-**Morzaria-Luna, H.**, P. Turk-Boyer, E. Polanco-Mizquez, C. Downton-Hoffmann, G. Cruz-Piñón, T. Carrillo-Lammens, R. Loaiza-Villanueva, P. Valdivia-Jiménez, Á. Sánchez-Cruz, V. Peña-Mendoza, A. Montserrat López-Ortiz, V. Koch, L. Vázquez-Vera, J. Alfredo Arreola-Lizárraga, I. G. Amador-Castro, A.N. Suárez Castillo, A. Munguia-Vega. 2020. Coastal and Marine Spatial Planning in the Northern Gulf of California, Mexico: Consolidating Stewardship, Property Rights, and Enforcement for Ecosystem-Based Fisheries Management. Ocean and Coastal Management. 197:105316. https://doi.org/10.1016/j.ocecoaman.2020.105316
+**Morzaria-Luna, H.**, P. Turk-Boyer, E. Polanco-Mizquez, C. Downton-Hoffmann, G. Cruz-Piñón, T. Carrillo-Lammens, R. Loaiza-Villanueva, P. Valdivia-Jiménez, Á. Sánchez-Cruz, V. Peña-Mendoza, A. Montserrat López-Ortiz, V. Koch, L. Vázquez-Vera, J., Arreola-Lizárraga, A., I. G. Amador-Castro, A.N. Suárez Castillo & A. Munguia-Vega. 2020. Coastal and Marine Spatial Planning in the Northern Gulf of California, Mexico: Consolidating Stewardship, Property Rights, and Enforcement for Ecosystem-Based Fisheries Management. Ocean and Coastal Management. 197:105316. https://doi.org/10.1016/j.ocecoaman.2020.105316
 
 Kaplan IC, Hansen C, **Morzaria-Luna H**, Girardin R and Marshall KN. 2020 Ecosystem-Based Harvest Control Rules for Norwegian and US Ecosystems. Front. Mar. Sci. 7:652. doi: 10.3389/fmars.2020.00652
 
