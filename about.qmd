@@ -4,9 +4,10 @@ title: "Publications"
 
 View at [Google Scholar profile](https://scholar.google.com/citations?user=CdVwjyUAAAAJ&hl=en&oi=sra)
 
+
 ## Journal articles
 
-### In review
+### Submitted
 
 Rovellini, A., Punt, André E., Bryan, Meaghan D., Kaplan, I., Dorn, M., Aydin, K., Fulton, E.A., Alglave1, B., Baker, M.R., Carroll, G., Ferriss, B., Haltuch, M.A., Hayes, A., Hermann, A., Hernvann, P.Y., Holsman, K. Liu, O.R., McHuron, E., **Morzaria-Luna, H.**, Moss, J., Surma, S. & Weise, M.T. Linking climate stressors and ecological processes in ecosystem models, with a case study from the Gulf of Alaska. ICES Journal of Marine Science
 
@@ -14,12 +15,15 @@ Schamp, A., **H. Morzaria-Luna**, C.M. Anderson, M. Knox. Tourist Preferences fo
 
 Salas-Mejia, N. J.G. Padilla-Serrato, **H. Morzaria-Luna**, T.M. Ruiz-Ruiz, E.F. Balart-Paez, J.A. Arreola Lizárraga. Spatial-temporal patterns and changes in the structure of the fish community in a semi-arid subtropical coastal lagoon subject to ecological conservation. Estuarine, Coastal and Shelf Science.
 
+Arvizu-Ruiz, A., R.H. Barraza-Guardado, A. Riesgo-Ruiz, **H. Morzaria-Luna**, J. M. Dorantes Hernández. Evidence of overfishing of the pink murex snail <i>Phyllonotus erythrostomus</i> in Bahía de Kino, Sonora (Gulf of California)
+
+
 
 ### Published
 
 **Morzaria-Luna, H.**, M. Urquidi, G. Cruz-Piñón, J.M. Dorantes Hernández, P.A. Valdivia Jiménez, Á. Sánchez Cruz & I. Martínez. 2023. [Historical use of coastal wetlands by small-scale fisheries in the Northern Gulf of California.](https://rdcu.be/diR8B) Human Ecology. https://doi.org/10.1007/s10745-023-00440-x
 
-Perryman, H.A., I.C. Kaplan, JL. Blanchard, G. Faye, S.K. Gaichas, V.L. McGregor, H. Morzaria-Luna, J. Porobic, H. Townsend & E.A. Fulton. 2023. Atlantis Ecosystem Model Summit 2022: report from a workshop. Ecological Modeling. https://doi.org/10.1016/j.ecolmodel.2023.110442
+Perryman, H.A., I.C. Kaplan, JL. Blanchard, G. Faye, S.K. Gaichas, V.L. McGregor, **H. Morzaria-Luna**, J. Porobic, H. Townsend & E.A. Fulton. 2023. Atlantis Ecosystem Model Summit 2022: report from a workshop. Ecological Modeling. https://doi.org/10.1016/j.ecolmodel.2023.110442
 
 Lovindeer, R., S. Mynott, J. Porobic Garate, E.A. Fulton, S.E. Hook, H. Pethybridge, S.E. Allen, D. Latornell, **H. Morzaria-Luna** & J. Melbourne-Thomas. 2023. Ecosystem-level Impacts of Oil Spills: A Review of Available Data with Confidence Metrics for Application to Ecosystem Models. Environmental modeling and assessment. https://doi.org/10.1007/s10666-023-09905-1
 
