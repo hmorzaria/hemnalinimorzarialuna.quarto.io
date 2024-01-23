@@ -9,9 +9,7 @@ View at [Google Scholar profile](https://scholar.google.com/citations?user=CdVwj
 
 ### Submitted
 
-Rovellini, A., Punt, André E., Bryan, Meaghan D., Kaplan, I., Dorn, M., Aydin, K., Fulton, E.A., Alglave1, B., Baker, M.R., Carroll, G., Ferriss, B., Haltuch, M.A., Hayes, A., Hermann, A., Hernvann, P.Y., Holsman, K. Liu, O.R., McHuron, E., **Morzaria-Luna, H.**, Moss, J., Surma, S. & Weise, M.T. Linking climate stressors and ecological processes in ecosystem models, with a case study from the Gulf of Alaska. ICES Journal of Marine Science
-
-Schamp, A., **H. Morzaria-Luna**, C.M. Anderson, M. Knox. Tourist Preferences for Whale Watching and Rule Changes in the Salish Sea. Ecological Economics. [Preprint at SSRN] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4409663)
+Schamp, A., **H. Morzaria-Luna**, C.M. Anderson, M. Knox. Tourist Preferences for Whale Watching and Rule Changes in the Salish Sea. Oceans and Coastal Management. [Preprint at SSRN] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4409663)
 
 Salas-Mejia, N. J.G. Padilla-Serrato, **H. Morzaria-Luna**, T.M. Ruiz-Ruiz, E.F. Balart-Paez, J.A. Arreola Lizárraga. Spatial-temporal patterns and changes in the structure of the fish community in a semi-arid subtropical coastal lagoon subject to ecological conservation. Estuarine, Coastal and Shelf Science.
 
@@ -20,6 +18,8 @@ Arvizu-Ruiz, A., R.H. Barraza-Guardado, A. Riesgo-Ruiz, **H. Morzaria-Luna**, J.
 
 
 ### Published
+
+Rovellini, A., Punt, André E., Bryan, Meaghan D., Kaplan, I., Dorn, M., Aydin, K., Fulton, E.A., Alglave, B., Baker, M.R., Carroll, G., Ferriss, B., Haltuch, M.A., Hayes, A., Hermann, A., Hernvann, P.Y., Holsman, K. Liu, O.R., McHuron, E., **Morzaria-Luna, H.**, Moss, J., Surma, S. & Weise, M.T. 2024. [Linking climate stressors and ecological processes in ecosystem models, with a case study from the Gulf of Alaska](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsae002/7584994). ICES Journal of Marine Science https://doi.org/10.1093/icesjms/fsae002 
 
 **Morzaria-Luna, H.**, M. Urquidi, G. Cruz-Piñón, J.M. Dorantes Hernández, P.A. Valdivia Jiménez, Á. Sánchez Cruz & I. Martínez. 2023. [Historical use of coastal wetlands by small-scale fisheries in the Northern Gulf of California.](https://rdcu.be/diR8B) Human Ecology. https://doi.org/10.1007/s10745-023-00440-x
 
