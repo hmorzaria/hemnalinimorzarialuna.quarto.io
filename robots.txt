@@ -1,1 +1,1 @@
-Sitemap: https://github.com/hmorzaria/hemnalinimorzarialuna.quarto.io/sitemap.xml
+Sitemap: https://hmorzaria.github.io/hemnalinimorzarialuna.quarto.io/sitemap.xml
