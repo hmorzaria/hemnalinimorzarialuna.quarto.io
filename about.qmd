@@ -24,7 +24,8 @@ Arvizu-Ruiz, A., R.H. Barraza-Guardado, A. Riesgo-Ruiz, **H. Morzaria-Luna**, J.
 
 ### Published
 
-Beaty, F., P. S. Domínguez-Sánchez, K. Bear Nalven, J. Palacios-Abrantes, KL. Oken, N.C. Ban, K.J. Nickols, F. Juanes, T.A. Okey, A. Spalding, H. Morzaria-Luna, L.D. Jenkins, V. Tulloch, I. McKechnie. In Press. Centering relationships to place for more meaningful research and engagement. Proceedings of the National Academy of Sciences.
+Beaty, F., P. S. Domínguez-Sánchez, K. Bear Nalven, J. Palacios-Abrantes, KL. Oken, N.C. Ban, K.J. Nickols, F. Juanes, T.A. Okey, A. Spalding, H. Morzaria-Luna, L.D. Jenkins, V. Tulloch, I. McKechnie. 2024. [Centering relationships to place for more meaningful research and engagement.](https://www.pnas.org/doi/10.1073/pnas.2306991121)
+Proceedings of the National Academy of Sciences. 121 (25) e2306991121
 
 Rovellini, A., Punt, André E., Bryan, Meaghan D., Kaplan, I., Dorn, M., Aydin, K., Fulton, E.A., Alglave, B., Baker, M.R., Carroll, G., Ferriss, B., Haltuch, M.A., Hayes, A., Hermann, A., Hernvann, P.Y., Holsman, K. Liu, O.R., McHuron, E., **Morzaria-Luna, H.**, Moss, J., Surma, S. & Weise, M.T. 2024. [Linking climate stressors and ecological processes in ecosystem models, with a case study from the Gulf of Alaska](https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsae002/7584994). ICES Journal of Marine Science https://doi.org/10.1093/icesjms/fsae002 
 
