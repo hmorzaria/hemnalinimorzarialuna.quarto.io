@@ -16,8 +16,6 @@ Buechler, S.J., K Lopez-Olmedo, C. R. Navarrete-Torices, **H. Morzaria-Luna**, J
 
 Dorantes-Hernández J.M., **H. Morzaria-Luna**, J.C. Pérez-Jiméneza, E.V. Coronado-Castro, D. Molina-Rosales. A comparative analysis of spatial fisheries management tools in Continental America: Towards the improvement of Fisheries Refuge Zones in Mexico. Marine Policy
 
-Rovellini, A., A.E. Punt, M.W. Dorn, I.C. Kaplan, M.D. Bryan, G. Adams, K. Aydin, M.R. Baker, C.L. Barnes, B.E. Ferriss, E.A. Fulton, M.A. Haltuch, A.J. Hermann, K.K. Holsman, C. McGilliard, E.A. McHuron, **H. Morzaria-Luna**, S. Surma. Evaluating ecosystem caps on fishery yield in the context of climate stress and predation. Ecological Applications.
-
 Schamp, A., **H. Morzaria-Luna**, C.M. Anderson, M. Knox. Tourist Preferences for Whale Watching and Rule Changes in the Salish Sea. Oceans and Coastal Management. [Preprint at SSRN] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4409663)
 
 Arvizu-Ruiz, A., R.H. Barraza-Guardado, A. Riesgo-Ruiz, **H. Morzaria-Luna**, J.M. Dorantes Hernández. Evidence of overfishing of the pink murex snail <i>Phyllonotus erythrostomus</i> in Bahía de Kino, Sonora (Gulf of California). Oceanides
@@ -25,7 +23,9 @@ Arvizu-Ruiz, A., R.H. Barraza-Guardado, A. Riesgo-Ruiz, **H. Morzaria-Luna**, J.
 
 ### Published
 
-Aguirre-Villaseñor, H., D. Petatán-Ramírez*, **H. Morzaria-Luna**, M. Walther, Z.M. Rodríguez-Flores, N.I. Zamora-García, A. Lisbeth Núñez-Orozco, A. Labastida-Che, M.E. Zarate-Becerra, M.S. Zuñiga Flores, E. Espino-Barr. In press. Impacts of climate change on the distribution of the Pacific red snapper (Lutjanus peru) in Mexico. Oceans and Coastal Management
+Rovellini, A., A.E. Punt, M.W. Dorn, I.C. Kaplan, M.D. Bryan, G. Adams, K. Aydin, M.R. Baker, C.L. Barnes, B.E. Ferriss, E.A. Fulton, M.A. Haltuch, A.J. Hermann, K.K. Holsman, C. McGilliard, E.A. McHuron, **H. Morzaria-Luna**, S. Surma. 2025. In press. Evaluating ecosystem caps on fishery yield in the context of climate stress and predation. Ecological Applications.
+
+Aguirre-Villaseñor, H., D. Petatán-Ramírez, **H. Morzaria-Luna**, M. Walther, Z.M. Rodríguez-Flores, N.I. Zamora-García, A. Lisbeth Núñez-Orozco, A. Labastida-Che, M.E. Zarate-Becerra, M.S. Zuñiga Flores, E. Espino-Barr. In press. Impacts of climate change on the distribution of the Pacific red snapper (Lutjanus peru) in Mexico. Oceans and Coastal Management. https://doi.org/10.1016/j.ocecoaman.2025.107601
 
 Ortega-Cisneros, K. D. Fierros-Arcos, M. Lindmark, C. Novaglio, P. Woodworth-Jeffcoats, T.D. Eddy, M. Coll, E. Fulton, R. Oliveros-Ramos, J. Reum, Y. Shin, C. Bulman, L. Capitani, S. Datta, K. Murphy,  A. Rogers, L. Shannon, A. Whitehouse, Y. Lun Wu, E. Adekoya, C. Barceló, B.S. Dias, A. Fuster, C. Hansen, B. Husson, V. McGregor, A. Morell, **H. Morzaria Luna**, J. Ouled-Cheikh Bonan, J. Ruzicka, J. Steenbeek, I. Stollberg, R.C. Subramaniamoshni, M. Travers- Trolet, V. Tulloch, A. Bryndum-Buchholz, C. Harrison, R. Heneghan, O. Maury, C. M. Petrik, K. Roberts, D.P. Tittensor, J. Blanchard. 2025. An Integrated Global-to-Regional Scale Workflow for Simulating Climate Change Impacts on Marine Ecosystems. Earth's Future, 13(2), p.e2024EF004826.
 
