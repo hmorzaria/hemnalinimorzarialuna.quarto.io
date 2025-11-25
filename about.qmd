@@ -13,7 +13,7 @@ Tulloch, V. **H. Morzaria-Luna**, C. Murray, J. Blanchard, R. Lovindeer, T. Mart
 
 Cavieses-Nuñez, R., Q. Lu, **H. Morzaria-Luna**, P. Mallick, S. Kumara, C. R. Navarrete-Torices, G. Cruz-Piñón, Buechler, S.J., K. Lopez-Olmedo. Assessing climate change impacts for small-scale fisheries in the Gulf of California using Deep Learning. Fisheries Research
 
-Dorantes-Hernández J.M., **H. Morzaria-Luna**, J.C. Pérez-Jiménez, E.V. Coronado-Castro, D. Molina-Rosales. A comparative analysis of spatial fisheries management tools in Continental America: Towards the improvement of Fisheries Refuge Zones in Mexico. Marine Policy
+Dorantes-Hernández J.M., **H. Morzaria-Luna**, J.C. Pérez-Jiménez, E.V. Coronado-Castro, D. Molina-Rosales. A comparative analysis of spatial fisheries management tools in Continental America: Towards the improvement of Fisheries Refuge Zones in Mexico. Journal of Environmental Management
 
 Arvizu-Ruiz, A., R.H. Barraza-Guardado, A. Riesgo-Ruiz, **H. Morzaria-Luna**, J.M. Dorantes Hernández. Evidence of overfishing of the pink murex snail <i>Phyllonotus erythrostomus</i> in Bahía de Kino, Sonora (Gulf of California). Oceanides
 
@@ -21,15 +21,15 @@ Arvizu-Ruiz, A., R.H. Barraza-Guardado, A. Riesgo-Ruiz, **H. Morzaria-Luna**, J.
 
 ### Published
 
+Tulloch, V., C. Murray, S.Surma, C. Barnes, J. Conn, K. Holsman, T., Martin, **H. Morzaria-Luna**, J. Reum, K. Berry. In Press. Applications of Marine Ecosystem Models for Pacific Salmon Conservation and Management in the Northeast Pacific. FACETS
+
 Lovindeer, R., E.A. Fulton; S.E. Allen, J.Porobic Garate; D.J. Latornell; **H. Morzaria-Luna**, A. Morell. 2026. Equations for modelling contaminant impacts throughout a marine ecosystem. Ocean Modelling. 199: 102646. https://doi.org/10.1016/j.ocemod.2025.102646
 
 Dorantes-Hernández J.M., **H. Morzaria-Luna**, J.C. Pérez-Jiméneza, E.V. Coronado-Castro, D. Molina-Rosales. 2025. Stakeholders' perceptions of feasibility of Fishery Refuge Zone implementation in Campeche, Southern Gulf of Mexico. Regional Studies in Marine Science. https://doi.org/10.1016/j.rsma.2025.104420
 
-Buechler, S.J., K Lopez-Olmedo, C. R. Navarrete-Torices, **H. Morzaria-Luna**, J.M. Dorantes Hernández, R. Cavieses-Nuñez, P.A. Valdivia-Jiménez, G. Cruz-Piñón, Q. Lu. 2025. Climate change perceptions and responses of male and female fishers in the Gulf of California, Mexico. Population and Environment. 10: 100323. https://doi.org/10.1016/j.crsust.2025.100323
+Buechler, S.J., K Lopez-Olmedo, C. R. Navarrete-Torices, **H. Morzaria-Luna, J.M. Dorantes Hernández, R. Cavieses-Núñez, P.A. Valdivia-Jiménez, G. Cruz-Piñón, Q. Lu. 2025. Climate change perceptions and responses of male and female fishers in the Gulf of California, Mexico. Population and Environment. 10: 100323. https://doi.org/10.1016/j.crsust.2025.100323
 
-Tulloch, V., C. Murray, S.Surma, C. Barnes, J. Conn, K. Holsman, T., Martin, **H. Morzaria-Luna**, J. Reum, K. Berry. In Press. Applications of Marine Ecosystem Models for Pacific Salmon Conservation and Management in the Northeast Pacific. FACETS
-
-Salas-Mejia, N. J.G. Padilla-Serrato, **H. Morzaria-Luna**, T.M. Ruiz-Ruiz, E.F. Balart-Paez, J.A. Arreola Lizárraga. In press. Examining the condition of dominant fish populations in a marine protected area in the Gulf of California. Thalassas: An International Journal of Marine Sciences.
+Salas-Mejia, N. J.G. Padilla-Serrato, **H. Morzaria-Luna**, T.M. Ruiz-Ruiz, E.F. Balart-Paez, J.A. Arreola Lizárraga. 2025. Examining the condition of dominant fish populations in a marine protected area in the Gulf of California. Thalassas: An International Journal of Marine Sciences. https://doi.org/10.1007/s41208-025-00923-2
 
 Schamp, A., **H. Morzaria-Luna**, C.M. Anderson, M. Knox. 2025. Tourist Preferences for Whale Watching and Rule Changes in the Salish Sea. Oceans and Coastal Management. 269: 107830. https://www.sciencedirect.com/science/article/pii/S0964569125002923
 
