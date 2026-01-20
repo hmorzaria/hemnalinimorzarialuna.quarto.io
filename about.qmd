@@ -9,14 +9,19 @@ View at [Google Scholar profile](https://scholar.google.com/citations?user=CdVwj
 
 ### Submitted
 
+Lovindeer, R., S. Mynott, J. Porobic, E.A. Fulton, S.E. Allen, D.J. Latornell, **H. Morzaria-Luna**, A. Morell, N.C. Ban. Integrated modelling of inland-sea ecosystem impacts from anthropogenic stressors: oil-based contaminants in the Salish Sea. Marine Pollution Bulletin.  
+
 Tulloch, V. **H. Morzaria-Luna**, C. Murray, J. Blanchard, R. Lovindeer, T. Martin. Developing an ecosystem-scale understanding of Southern Resident Killer Whales and their dependence on Pacific salmon prey to support conservation and management in the Salish Sea. Ecological Applications
 
 Cavieses-Nuñez, R., Q. Lu, **H. Morzaria-Luna**, P. Mallick, S. Kumara, C. R. Navarrete-Torices, G. Cruz-Piñón, Buechler, S.J., K. Lopez-Olmedo. Assessing climate change impacts for small-scale fisheries in the Gulf of California using Deep Learning. Fisheries Research
 
 Dorantes-Hernández J.M., **H. Morzaria-Luna**, J.C. Pérez-Jiménez, E.V. Coronado-Castro, D. Molina-Rosales. A comparative analysis of spatial fisheries management tools in Continental America: Towards the improvement of Fisheries Refuge Zones in Mexico. Journal of Environmental Management
 
-Arvizu-Ruiz, A., R.H. Barraza-Guardado, A. Riesgo-Ruiz, **H. Morzaria-Luna**, J.M. Dorantes Hernández. Evidence of overfishing of the pink murex snail <i>Phyllonotus erythrostomus</i> in Bahía de Kino, Sonora (Gulf of California). Oceanides
+Morell, A., I.C. Kaplan, **H. Morzaria-Luna**, A. Rovellini, C.J. Harvey, J. Porobic, E.A. Fulton, R. Oliveros-Ramos. From Manual Tuning to Semi-Automated Calibration: A Practical Framework for Calibrating Atlantis Ecosystem Models. Ecological Informatics
 
+Dorantes-Hernández, J.M., L.E. Palomo-Cortés, **H. Morzaria-Luna**, J.C. Pérez-Jiménez. A Fuzzy Logic-Based Framework to Assess the Social Feasibility of Community-Based Fishery Reserves. Ocean and Coastal Management
+
+Arvizu-Ruiz, A., R.H. Barraza-Guardado, A. Riesgo-Ruiz, **H. Morzaria-Luna**, J.M. Dorantes Hernández. Evidence of overfishing of the pink murex snail <i>Phyllonotus erythrostomus</i> in Bahía de Kino, Sonora (Gulf of California). Oceanides
 
 
 ### Published
