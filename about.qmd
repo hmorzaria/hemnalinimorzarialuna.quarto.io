@@ -13,8 +13,6 @@ Lovindeer, R., S. Mynott, J. Porobic, E.A. Fulton, S.E. Allen, D.J. Latornell, *
 
 Tulloch, V. **H. Morzaria-Luna**, C. Murray, J. Blanchard, R. Lovindeer, T. Martin. Developing an ecosystem-scale understanding of Southern Resident Killer Whales and their dependence on Pacific salmon prey to support conservation and management in the Salish Sea. Ecological Applications
 
-Cavieses-Nuñez, R., Q. Lu, **H. Morzaria-Luna**, P. Mallick, S. Kumara, C. R. Navarrete-Torices, G. Cruz-Piñón, Buechler, S.J., K. Lopez-Olmedo. Assessing climate change impacts for small-scale fisheries in the Gulf of California using Deep Learning. Fisheries Research
-
 Dorantes-Hernández J.M., **H. Morzaria-Luna**, J.C. Pérez-Jiménez, E.V. Coronado-Castro, D. Molina-Rosales. A comparative analysis of spatial fisheries management tools in Continental America: Towards the improvement of Fisheries Refuge Zones in Mexico. Journal of Environmental Management
 
 Morell, A., I.C. Kaplan, **H. Morzaria-Luna**, A. Rovellini, C.J. Harvey, J. Porobic, E.A. Fulton, R. Oliveros-Ramos. From Manual Tuning to Semi-Automated Calibration: A Practical Framework for Calibrating Atlantis Ecosystem Models. Ecological Informatics
@@ -27,6 +25,8 @@ Arvizu-Ruiz, A., R.H. Barraza-Guardado, A. Riesgo-Ruiz, **H. Morzaria-Luna**, J.
 ### Published
 
 Tulloch, V., C. Murray, S.Surma, C. Barnes, J. Conn, K. Holsman, T., Martin, **H. Morzaria-Luna**, J. Reum, K. Berry. In Press. Applications of Marine Ecosystem Models for Pacific Salmon Conservation and Management in the Northeast Pacific. FACETS
+
+Cavieses-Nuñez, R., Lu, Q., **Morzaria-Luna, H.**, Mallick, P., Kumara, S., Navarrete-Torices, C.R., Cruz-Piñón, G., Buechler, S. and Lopez-Olmedo, K., 2026. Assessing climate change impacts for small-scale fisheries in the Gulf of California using deep Learning. Fisheries Research 296:107683 .https://doi.org/10.1016/j.fishres.2026.107683
 
 Lovindeer, R., E.A. Fulton; S.E. Allen, J.Porobic Garate; D.J. Latornell; **H. Morzaria-Luna**, A. Morell. 2026. Equations for modelling contaminant impacts throughout a marine ecosystem. Ocean Modelling. 199: 102646. https://doi.org/10.1016/j.ocemod.2025.102646
 
