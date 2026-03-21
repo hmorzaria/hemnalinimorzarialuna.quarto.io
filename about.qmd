@@ -11,11 +11,11 @@ View at [Google Scholar profile](https://scholar.google.com/citations?user=CdVwj
 
 Lovindeer, R., S. Mynott, J. Porobic, E.A. Fulton, S.E. Allen, D.J. Latornell, **H. Morzaria-Luna**, A. Morell, N.C. Ban. Integrated modelling of inland-sea ecosystem impacts from anthropogenic stressors: oil-based contaminants in the Salish Sea. Marine Pollution Bulletin.  
 
-Tulloch, V. **H. Morzaria-Luna**, C. Murray, J. Blanchard, R. Lovindeer, T. Martin. Developing an ecosystem-scale understanding of Southern Resident Killer Whales and their dependence on Pacific salmon prey to support conservation and management in the Salish Sea. Ecological Applications
+Tulloch, V. **H. Morzaria-Luna**, C. Murray, J. Blanchard, R. Lovindeer, T. Martin. Developing an ecosystem-scale understanding of Southern Resident Killer Whales and their dependence on Pacific salmon prey to support conservation and management in the Salish Sea. PLOSOne
 
 Dorantes-Hernández J.M., **H. Morzaria-Luna**, J.C. Pérez-Jiménez, E.V. Coronado-Castro, D. Molina-Rosales. A comparative analysis of spatial fisheries management tools in Continental America: Towards the improvement of Fisheries Refuge Zones in Mexico. Journal of Environmental Management
 
-Morell, A., I.C. Kaplan, **H. Morzaria-Luna**, A. Rovellini, C.J. Harvey, J. Porobic, E.A. Fulton, R. Oliveros-Ramos. From Manual Tuning to Semi-Automated Calibration: A Practical Framework for Calibrating Atlantis Ecosystem Models. Ecological Informatics
+Morell, A., I.C. Kaplan, **H. Morzaria-Luna**, A. Rovellini, C.J. Harvey, J. Porobic, E.A. Fulton, R. Oliveros-Ramos. From Manual Tuning to Semi-Automated Calibration: A Practical Framework for Calibrating Atlantis Ecosystem Models. Ecological Informatics. Available as a preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5888414
 
 Dorantes-Hernández, J.M., L.E. Palomo-Cortés, **H. Morzaria-Luna**, J.C. Pérez-Jiménez. A Fuzzy Logic-Based Framework to Assess the Social Feasibility of Community-Based Fishery Reserves. Ocean and Coastal Management
 
@@ -42,7 +42,7 @@ Rovellini, A., A.E. Punt, M.W. Dorn, I.C. Kaplan, M.D. Bryan, G. Adams, K. Aydin
 
 Aguirre-Villaseñor, H., D. Petatán-Ramírez, **H. Morzaria-Luna**, M. Walther, Z.M. Rodríguez-Flores, N.I. Zamora-García, A. Lisbeth Núñez-Orozco, A. Labastida-Che, M.E. Zarate-Becerra, M.S. Zuñiga Flores, E. Espino-Barr. 2025. Impacts of climate change on the distribution of the Pacific red snapper (Lutjanus peru) in Mexico. Oceans and Coastal Management. https://doi.org/10.1016/j.ocecoaman.2025.107601
 
-Ortega-Cisneros, K. D. Fierros-Arcos, M. Lindmark, C. Novaglio, P. Woodworth-Jeffcoats, T.D. Eddy, M. Coll, E. Fulton, R. Oliveros-Ramos, J. Reum, Y. Shin, C. Bulman, L. Capitani, S. Datta, K. Murphy,  A. Rogers, L. Shannon, A. Whitehouse, Y. Lun Wu, E. Adekoya, C. Barceló, B.S. Dias, A. Fuster, C. Hansen, B. Husson, V. McGregor, A. Morell, **H. Morzaria Luna**, J. Ouled-Cheikh Bonan, J. Ruzicka, J. Steenbeek, I. Stollberg, R.C. Subramaniamoshni, M. Travers- Trolet, V. Tulloch, A. Bryndum-Buchholz, C. Harrison, R. Heneghan, O. Maury, C. M. Petrik, K. Roberts, D.P. Tittensor, J. Blanchard. 2025. An Integrated Global-to-Regional Scale Workflow for Simulating Climate Change Impacts on Marine Ecosystems. Earth's Future, 13(2), p.e2024EF004826. https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024EF004826
+Ortega-Cisneros, K. D. Fierros-Arcos, M. Lindmark, C. Novaglio, P. Woodworth-Jeffcoats, T.D. Eddy, M. Coll, E. Fulton, R. Oliveros-Ramos, J. Reum, Y. Shin, C. Bulman, L. Capitani, S. Datta, K. Murphy,  A. Rogers, L. Shannon, A. Whitehouse, E. Adekoya, B.S. Dias, A. Fuster, C. Hansen, B. Husson, V. McGregor, A. Morell, **H. Morzaria Luna**, J. Ouled-Cheikh, J. Ruzicka, J. Steenbeek, I. Stollberg, R.C. Subramaniamoshni, V. Tulloch, A. Bryndum-Buchholz, C. Harrison, R. Heneghan, O. Maury, M. Pozos Bull, J. Schewe, D. Tittensor, H. Townsend, J. Blanchard. 2025. An Integrated Global-to-Regional Scale Workflow for Simulating Climate Change Impacts on Marine Ecosystems. Earth's Future, 13(2), p.e2024EF004826. https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024EF004826
 
 Salas-Mejia, N. J.G. Padilla-Serrato, **H. Morzaria-Luna**, T.M. Ruiz-Ruiz, E.F. Balart-Paez, J.A. Arreola Lizárraga. 2024. Observing changes of Fish Community in a Semi-Arid Subtropical Coastal Lagoon Subject to Ecological Conservation. Regional Studies in Marine Science 78:103779. https://doi.org/10.1016/j.rsma.2024.103779
 
