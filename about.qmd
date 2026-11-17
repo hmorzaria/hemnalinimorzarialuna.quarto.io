@@ -9,20 +9,21 @@ View at [Google Scholar profile](https://scholar.google.com/citations?user=CdVwj
 
 ### Submitted
 
-Lovindeer, R., S. Mynott, J. Porobic, E.A. Fulton, S.E. Allen, D.J. Latornell, **H. Morzaria-Luna**, A. Morell, N.C. Ban. Integrated modelling of inland-sea ecosystem impacts from anthropogenic stressors: oil-based contaminants in the Salish Sea. Marine Pollution Bulletin.  
 
 Tulloch, V. **H. Morzaria-Luna**, C. Murray, J. Blanchard, R. Lovindeer, T. Martin. Developing an ecosystem-scale understanding of Southern Resident Killer Whales and their dependence on Pacific salmon prey to support conservation and management in the Salish Sea. PLOSOne
-
-Dorantes-Hernández J.M., **H. Morzaria-Luna**, J.C. Pérez-Jiménez, E.V. Coronado-Castro, D. Molina-Rosales. A comparative analysis of spatial fisheries management tools in Continental America: Towards the improvement of Fisheries Refuge Zones in Mexico. Journal of Environmental Management
-
-Morell, A., I.C. Kaplan, **H. Morzaria-Luna**, A. Rovellini, C.J. Harvey, J. Porobic, E.A. Fulton, R. Oliveros-Ramos. From Manual Tuning to Semi-Automated Calibration: A Practical Framework for Calibrating Atlantis Ecosystem Models. Ecological Informatics. Available as a preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5888414
-
-Dorantes-Hernández, J.M., L.E. Palomo-Cortés, **H. Morzaria-Luna**, J.C. Pérez-Jiménez. A Fuzzy Logic-Based Framework to Assess the Social Feasibility of Community-Based Fishery Reserves. Ocean and Coastal Management
 
 Arvizu-Ruiz, A., R.H. Barraza-Guardado, A. Riesgo-Ruiz, **H. Morzaria-Luna**, J.M. Dorantes Hernández. Evidence of overfishing of the pink murex snail <i>Phyllonotus erythrostomus</i> in Bahía de Kino, Sonora (Gulf of California). Oceanides
 
 
 ### Published
+
+Lovindeer, R., S. Mynott, J. Porobic, E.A. Fulton, S.E. Allen, D.J. Latornell, **H. Morzaria-Luna**, A. Morell, N.C. Ban. In Press. Integrated modelling of inland-sea ecosystem impacts from anthropogenic stressors: oil-based contaminants in the Salish Sea. Marine Environmental Research.
+
+Dorantes-Hernández, J.M., L.E. Palomo, **H. Morzaria-Luna**, J.C. Pérez-Jiménez. 2027. A fuzzy logic-based framework to assess the social feasibility of community-based fishery reserves. Ocean and Coastal Management 284:108444. https://doi.org/10.1016/j.ocecoaman.2026.108444
+
+Dorantes-Hernández J.M., **H. Morzaria-Luna**, J.C. Pérez-Jiménez, E.V. Coronado-Castro, D. Molina-Rosales. 2026. Improving Fishery Refuge Zones in Mexico through a comparative analysis of spatial fisheries management tools in the Americas. Regional Studies in Marine Science 99:105122. https://doi.org/10.1016/j.rsma.2026.105122
+
+Morell, A., I.C. Kaplan, **H. Morzaria-Luna**, A. Rovellini, C.J. Harvey, J. Porobic, E.A. Fulton, R. Oliveros-Ramos. 2026. From Manual Tuning to Semi-Automated Calibration: A Practical Framework for Calibrating Atlantis Ecosystem Models. Ecological Modeling 520:111688. https://doi.org/10.1016/j.ecolmodel.2026.111688
 
 Tulloch, V., C. Murray, S.Surma, C. Barnes, J. Conn, K. Holsman, T., Martin, **H. Morzaria-Luna**, J. Reum, K. Berry. 2026. Applications of Marine Ecosystem Models for Pacific Salmon Conservation and Management in the Northeast Pacific. FACETS. https://www.facetsjournal.com/doi/10.1139/facets-2025-0261
 
